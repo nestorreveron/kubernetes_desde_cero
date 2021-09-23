@@ -1,4 +1,4 @@
-Ejmeplo de un deployment:
+Ejemplo de un deployment:
 
 apiVersion: apps/v1
 kind: Deployment
