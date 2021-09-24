@@ -11,4 +11,4 @@
 
 ## Instalació de Kubernetes: 
 
-1.- ```sh root@master:˜# apt-get update && apt-get upgrade -y```
+1.- ```root@master:˜# apt-get update && apt-get upgrade -y```
