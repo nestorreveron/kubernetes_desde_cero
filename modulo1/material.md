@@ -2,47 +2,47 @@
 
 [Presentación del Modulo 1](https://1drv.ms/p/s!AoX_zvfKf0RXj8g35ppcFemsnZdOew?e=yT8mrP "Presentación")
 
-**Origen de Kubernetes**: https://kube.academy/courses/getting-started/lessons/the-origin-of-kubernetes 
+1. **Origen de Kubernetes**: https://kube.academy/courses/getting-started/lessons/the-origin-of-kubernetes 
 
-**Borg**: https://kubernetes.io/blog/2015/04/borg-predecessor-to-kubernetes/ 
+2. **Borg**: https://kubernetes.io/blog/2015/04/borg-predecessor-to-kubernetes/ 
 
-**Kubernetes wiki**: https://en.wikipedia.org/wiki/Kubernetes 
+3. **Kubernetes wiki**: https://en.wikipedia.org/wiki/Kubernetes 
 
-**CNCF (Cloud Native Computing Foundation)**: https://www.cncf.io/projects/ 
+4. **CNCF (Cloud Native Computing Foundation)**: https://www.cncf.io/projects/ 
 
-**Berkeley Software Distribution**: https://en.wikipedia.org/wiki/Berkeley_Software_Distribution 
+5. **Berkeley Software Distribution**: https://en.wikipedia.org/wiki/Berkeley_Software_Distribution 
 
-**CHROOT**: https://en.wikipedia.org/wiki/Chroot 
+6. **CHROOT**: https://en.wikipedia.org/wiki/Chroot 
 
-**FreeBSD**: https://en.wikipedia.org/wiki/FreeBSD
+7. **FreeBSD**: https://en.wikipedia.org/wiki/FreeBSD
 
-**FreeBSD jail**: https://en.wikipedia.org/wiki/FreeBSD_jail
+8. **FreeBSD jail**: https://en.wikipedia.org/wiki/FreeBSD_jail
 
-**Join us in celebrating 30 years of Linux**: https://linuxfoundation.org/linux30th/ 
+9. **Join us in celebrating 30 years of Linux**: https://linuxfoundation.org/linux30th/ 
 
-**Linux namespaces**: https://en.wikipedia.org/wiki/Linux_namespaces
+10. **Linux namespaces**: https://en.wikipedia.org/wiki/Linux_namespaces
 
-**Cgroups - Control Groups**: https://en.wikipedia.org/wiki/Cgroups 
+11. **Cgroups - Control Groups**: https://en.wikipedia.org/wiki/Cgroups 
 
-**Solaris Containers**: https://en.wikipedia.org/wiki/Solaris_Containers
+12. **Solaris Containers**: https://en.wikipedia.org/wiki/Solaris_Containers
 
-**LXC**: https://en.wikipedia.org/wiki/LXC 
+13. **LXC**: https://en.wikipedia.org/wiki/LXC 
 
-**lmctfy**: https://en.wikipedia.org/wiki/Lmctfy / https://github.com/google/lmctfy 
+14. **lmctfy**: https://en.wikipedia.org/wiki/Lmctfy / https://github.com/google/lmctfy 
 
-**Docker**: https://en.wikipedia.org/wiki/Docker_(software)
+15. **Docker**: https://en.wikipedia.org/wiki/Docker_(software)
 
-**APPC**: https://github.com/appc/spec
+16. **APPC**: https://github.com/appc/spec
 
-**OCI**: https://opencontainers.org/
+17. **OCI**: https://opencontainers.org/
 
-**kata Containers**: https://katacontainers.io/learn/
+18. **kata Containers**: https://katacontainers.io/learn/
 
-**gVisor**: https://github.com/google/gvisor
+19. **gVisor**: https://github.com/google/gvisor
 
-**Podman**: https://podman.io/ 
+20. **Podman**: https://podman.io/ 
 
-**Containerd**: https://www.cncf.io/projects/containerd/
+21. **Containerd**: https://www.cncf.io/projects/containerd/
 
 
 ## Manifiesto para el deploymento del punto 1.4: Azure Vote App 
