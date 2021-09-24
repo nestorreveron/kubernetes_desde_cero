@@ -1,8 +1,8 @@
-# kubernetes desde cero
+# kubernetes desde cero / EDTEAM 
 
 ## Material útil para continuar con el aprendizaje sobre **Kubernetes**
 
-### Este repositorio esta organizado en base a los 5 módulos del curso, dentro de cada carpeta hay mucho material para continuar con la aventura, espero lo disfruten. 
+### Este repositorio está organizado en base a los 5 módulos del curso, dentro de cada carpeta hay mucho material para continuar con la aventura, espero lo disfruten. 
 
 > Larga vida y properidad
 
