@@ -9,7 +9,7 @@
 5. **Kubeadm** https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/create-cluster-kubeadm/ 
 
 
-## Instalació de Kubernetes: 
+## Instalación de Kubernetes: 
 
 1. ```root@masteredteam:˜# apt-get update && apt-get upgrade -y```
 2. ```root@masteredteam:˜# apt-get install -y vim```
