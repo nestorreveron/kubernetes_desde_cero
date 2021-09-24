@@ -36,12 +36,12 @@
 12. ```root@masteredteam:˜# vim /etc/hosts```
 > 10.128.0.3 k8smasteredteam #<-- Add this line
 > 127.0.0.1 localhost
-13. ```root@master:˜# vim kubeadm-config.yaml```
+13. ```root@masteredteam:˜# vim kubeadm-config.yaml```
 ```
 1 apiVersion: kubeadm.k8s.io/v1beta2
 2 kind: ClusterConfiguration
 3 kubernetesVersion: 1.18.1 #<-- Use the word stable for newest version
-4 controlPlaneEndpoint: "k8smaster:6443" #<-- Use the node alias not the IP
+4 controlPlaneEndpoint: "k8smasteredteam:6443" #<-- Use the node alias not the IP
 5 networking:
 6 podSubnet: 192.168.0.0/16 #<-- Match the IP range from the Calico config file
 ```
