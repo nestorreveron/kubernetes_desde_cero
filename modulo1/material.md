@@ -46,7 +46,7 @@
 
 
 ## Manifiesto para el deploymento del punto 1.4: Azure Vote App 
-```
+```yaml
 apiVersion: apps/v1
 kind: Deployment
 metadata:
