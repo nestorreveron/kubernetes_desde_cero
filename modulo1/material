@@ -42,7 +42,7 @@ Podman: https://podman.io/
 
 Containerd: https://www.cncf.io/projects/containerd/
 
-<https://ejemplo.com> `https://ejemplo.com`
+<p>Esta <b>palabra</b> va en negrita y esta <strong>tambi&#xE9;n</strong></p>
 
 Manifiesto para el deploymento del punto 1.4: Azure Vote App 
 
