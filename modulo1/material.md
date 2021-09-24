@@ -1,6 +1,5 @@
 # Material de apoyo módulo 1
 
-# Presentación: 
 [Presentación del Modulo 1](https://1drv.ms/p/s!AoX_zvfKf0RXj8g35ppcFemsnZdOew?e=yT8mrP "Presentación")
 
 **Origen de Kubernetes**: https://kube.academy/courses/getting-started/lessons/the-origin-of-kubernetes 
