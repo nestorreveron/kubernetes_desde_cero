@@ -1,5 +1,47 @@
 Presentación: https://1drv.ms/p/s!AoX_zvfKf0RXj8g35ppcFemsnZdOew?e=yT8mrP 
 
+Origen de Kubernetes: https://kube.academy/courses/getting-started/lessons/the-origin-of-kubernetes 
+
+Borg: https://kubernetes.io/blog/2015/04/borg-predecessor-to-kubernetes/ 
+
+Kubernetes wiki: https://en.wikipedia.org/wiki/Kubernetes 
+
+CNCF (Cloud Native Computing Foundation): https://www.cncf.io/projects/ 
+
+Berkeley Software Distribution: https://en.wikipedia.org/wiki/Berkeley_Software_Distribution 
+
+CHROOT: https://en.wikipedia.org/wiki/Chroot 
+
+FreeBSD: https://en.wikipedia.org/wiki/FreeBSD
+
+FreeBSD jail: https://en.wikipedia.org/wiki/FreeBSD_jail
+
+Join us in celebrating 30 years of Linux: https://linuxfoundation.org/linux30th/ 
+
+Linux namespaces: https://en.wikipedia.org/wiki/Linux_namespaces
+
+cgroups: https://en.wikipedia.org/wiki/Cgroups 
+
+Solaris Containers: https://en.wikipedia.org/wiki/Solaris_Containers
+
+LXC: https://en.wikipedia.org/wiki/LXC 
+
+lmctfy: https://en.wikipedia.org/wiki/Lmctfy / https://github.com/google/lmctfy 
+
+Docker: https://en.wikipedia.org/wiki/Docker_(software)
+
+APPC: https://github.com/appc/spec
+
+OCI: https://opencontainers.org/
+
+kata Containers: https://katacontainers.io/learn/
+
+gVisor: https://github.com/google/gvisor
+
+Podman: https://podman.io/ 
+
+Containerd: https://www.cncf.io/projects/containerd/
+
 Manifiesto para el deploymento del punto 1.4: Azure Vote App 
 
 apiVersion: apps/v1
@@ -87,3 +129,6 @@ spec:
   - port: 80
   selector:
     app: azure-vote-front
+    
+    
+
