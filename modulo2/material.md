@@ -7,4 +7,8 @@
 3. **EKSCTL** https://eksctl.io/ 
 4. **Kubecorn** http://kubicorn.io/ 
 5. **Kubeadm** https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/create-cluster-kubeadm/ 
-6. 
+
+
+## Instalació de Kubernetes: 
+
+1.- ```sh root@master:˜# apt-get update && apt-get upgrade -y```
