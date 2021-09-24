@@ -20,4 +20,17 @@
 > OK
 6. ```root@masteredteam:˜# apt-get update```
 7. ```root@masteredteam:˜# apt-get install -y kubeadm=1.18.1-00 kubelet=1.18.1-00 kubectl=1.18.1-00```
-8. 
+8. ```root@masteredteam:˜# apt-mark hold kubelet kubeadm kubectl```
+9. ```root@master:˜# wget https://docs.projectcalico.org/manifests/calico.yaml```
+10. ```root@master:˜# less calico.yaml```
+```
+1 ....
+2 # The default IPv4 pool to create on startup if none exists. Pod IPs will be
+3 # chosen from this range. Changing this value after installation will have
+4 # no effect. This should fall within `--cluster-cidr`.
+5 - name: CALICO_IPV4POOL_CIDR
+6 value: "192.168.0.0/16"
+7 ....
+```
+
+
