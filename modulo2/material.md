@@ -47,7 +47,7 @@
 ```
 14. ```root@masteredteam:˜# kubeadm init --config=kubeadm-config.yaml --upload-certs | tee kubeadm-init.out # Save output for future review```
 15. ```root@masteredteam:˜# exit```
-16. 
+16. ```**student**@masteredteam:˜$ mkdir -p $HOME/.kube```
 
 
 
