@@ -16,6 +16,8 @@
 3. ```root@masteredteam:˜# apt-get install -y docker.io```
 4. ```root@masteredteam:˜# vim /etc/apt/sources.list.d/kubernetes.list```
 > deb http://apt.kubernetes.io/ kubernetes-xenial main
-5. ```root@master:˜# curl -s https://packages.cloud.google.com/apt/doc/apt-key.gpg | apt-key add - ```
+5. ```root@masteredteam:˜# curl -s https://packages.cloud.google.com/apt/doc/apt-key.gpg | apt-key add - ```
 > OK
-6. ```root@master:˜# apt-get update```
+6. ```root@masteredteam:˜# apt-get update```
+7. ```root@masteredteam:˜# apt-get install -y kubeadm=1.18.1-00 kubelet=1.18.1-00 kubectl=1.18.1-00```
+8. 
