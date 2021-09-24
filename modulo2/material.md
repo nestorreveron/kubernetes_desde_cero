@@ -11,4 +11,6 @@
 
 ## Instalació de Kubernetes: 
 
-1.- ```root@master:˜# apt-get update && apt-get upgrade -y```
+1. ```root@masteredteam:˜# apt-get update && apt-get upgrade -y```
+2. ```root@masteredteam:˜# apt-get install -y vim```
+3. 
