@@ -15,9 +15,9 @@
 2. ```root@masteredteam:˜# apt-get install -y vim```
 3. ```root@masteredteam:˜# apt-get install -y docker.io```
 4. ```root@masteredteam:˜# vim /etc/apt/sources.list.d/kubernetes.list```
-> deb http://apt.kubernetes.io/ kubernetes-xenial main
+> *deb http://apt.kubernetes.io/ kubernetes-xenial main*
 5. ```root@masteredteam:˜# curl -s https://packages.cloud.google.com/apt/doc/apt-key.gpg | apt-key add - ```
-> OK
+> *OK*
 6. ```root@masteredteam:˜# apt-get update```
 7. ```root@masteredteam:˜# apt-get install -y kubeadm=1.18.1-00 kubelet=1.18.1-00 kubectl=1.18.1-00```
 8. ```root@masteredteam:˜# apt-mark hold kubelet kubeadm kubectl```
@@ -34,8 +34,8 @@
 ```
 11. ```root@masteredteam:˜# ip addr show```
 12. ```root@masteredteam:˜# vim /etc/hosts```
-> 10.128.0.3 k8smasteredteam #<-- Add this line
-> 127.0.0.1 localhost
+> *10.128.0.3 k8smasteredteam #<-- Add this line*
+> *127.0.0.1 localhost*
 13. ```root@masteredteam:˜# vim kubeadm-config.yaml```
 ```
 1 apiVersion: kubeadm.k8s.io/v1beta2
