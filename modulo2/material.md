@@ -47,7 +47,19 @@
 ```
 14. ```root@masteredteam:˜# kubeadm init --config=kubeadm-config.yaml --upload-certs | tee kubeadm-init.out # Save output for future review```
 15. ```root@masteredteam:˜# exit```
-16. ```**student**@masteredteam:˜$ mkdir -p $HOME/.kube```
+16. ```student**@masteredteam:˜$ mkdir -p $HOME/.kube```
+17. ```student@masteredteam:˜$ sudo cp -i /etc/kubernetes/admin.conf $HOME/.kube/config``
+18. ```student@masteredteam:˜$ sudo chown $(id -u):$(id -g) $HOME/.kube/config```
+19. ```student@masteredteam:˜$ less .kube/config```
+20. ```student@masteredteam:˜$ sudo cp /root/calico.yaml .```
+21. ```student@masteredteam:˜$ kubectl apply -f calico.yaml```
+22. ```student@masteredteam:˜$ sudo apt-get install bash-completion -y```
+> exit and log back in
+23. ```student@masteredteam:˜$ source <(kubectl completion bash)```
+24. ```student@masteredteam:˜$ echo "source <(kubectl completion bash)" >> $HOME/.bashrc```
+25. ```student@masteredteam:˜$ sudo kubeadm config print init-defaults```
+
+
 
 
 
