@@ -45,7 +45,9 @@
 5 networking:
 6 podSubnet: 192.168.0.0/16 #<-- Match the IP range from the Calico config file
 ```
-14. 
+14. ```root@masteredteam:˜# kubeadm init --config=kubeadm-config.yaml --upload-certs | tee kubeadm-init.out # Save output for future review```
+15. ```root@master:˜# exit```
+16. 
 
 
 
