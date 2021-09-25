@@ -79,3 +79,8 @@
 15. ```root@worker:˜# exit```
 16. **En el Master node**: ```student@masteredteam:˜$ kubectl get node```
 17. ```student@master:˜$ kubectl describe node master```
+
+## Algunos comando para la administración base de Kubernetes: 
+
+Muchos de los comando usados en esta sección fueron seleccionados desde **kubectl Cheat Sheet** 
+[**kubectl Cheat Sheet**](https://kubernetes.io/pt-br/docs/reference/kubectl/cheatsheet/)
