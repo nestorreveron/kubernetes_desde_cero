@@ -100,7 +100,7 @@ Muchos de los comando usados en esta sección fueron seleccionados desde **kubec
 ## Kubernetes como servicio (KaaS) - EKS (AWS), GKE (GCP), AKS (Azure)
 > **EKS**  
 
-> **GKE** [Kubernetes Solutions] (https://google.qwiklabs.com/quests/45catalog_rank=%7B%22rank%22%3A2%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&search_id=13501945)
+> **GKE** [Kubernetes Solutions](https://google.qwiklabs.com/quests/45?catalog_rank=%7B%22rank%22%3A2%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&search_id=13501945)
 
 > **AKS** Kubernetes Learning Path [*50 days from zero to hero with Kubernetes*](https://azure.microsoft.com/mediahandler/files/resourcefiles/kubernetes-learning-path/Kubernetes%20Learning%20Path_Version%202.0.pdf)
 
