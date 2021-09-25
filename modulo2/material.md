@@ -75,8 +75,7 @@
 11. ```student@masteredteam:˜$ sudo kubeadm token list```
 12. ```root@workeredteam:˜# vim /etc/hosts```
 13. ```root@workeredteam:˜# vim /etc/hosts```
-> *10.128.0.3 k8smasteredteam #<-- Add this line* #Recuerden que esta IP es la del Master Node
-> *127.0.0.1 localhost*
+> *10.128.0.3 k8smasteredteam #<-- Add this line* Recuerden que esta IP es la del Master Node
 14. 
 
 
