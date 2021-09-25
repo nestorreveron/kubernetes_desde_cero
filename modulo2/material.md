@@ -34,8 +34,7 @@
 ```
 11. ```root@masteredteam:˜# ip addr show```
 12. ```root@masteredteam:˜# vim /etc/hosts```
-> *10.128.0.3 k8smasteredteam #<-- Add this line*
-> *127.0.0.1 localhost*
+> *10.128.0.3 k8smasteredteam #<-- Add this line* Esta es la dirección IP del Master Node
 13. ```root@masteredteam:˜# vim kubeadm-config.yaml```
 ```
 1 apiVersion: kubeadm.k8s.io/v1beta2
