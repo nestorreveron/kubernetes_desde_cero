@@ -98,7 +98,7 @@ Muchos de los comando usados en esta sección fueron seleccionados desde **kubec
 > [KataKoda](https://www.katacoda.com/) 
 
 ## Kubernetes como servicio (KaaS) - EKS (AWS), GKE (GCP), AKS (Azure)
-> **EKS**  
+> **EKS** [Kubernetes Workshop AWS](https://www.eksworkshop.com/)
 
 > **GKE** [Kubernetes Solutions](https://google.qwiklabs.com/quests/45?catalog_rank=%7B%22rank%22%3A2%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&search_id=13501945)
 
