@@ -84,3 +84,8 @@
 
 Muchos de los comando usados en esta sección fueron seleccionados desde **kubectl Cheat Sheet** 
 [**kubectl Cheat Sheet**](https://kubernetes.io/pt-br/docs/reference/kubectl/cheatsheet/)
+
+## Minikube
+> [Minikube](https://minikube.sigs.k8s.io/docs/start/)
+
+
