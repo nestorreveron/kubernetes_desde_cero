@@ -59,6 +59,25 @@
 24. ```student@masteredteam:˜$ echo "source <(kubectl completion bash)" >> $HOME/.bashrc```
 25. ```student@masteredteam:˜$ sudo kubeadm config print init-defaults```
 
+## Configuración del Worker Node para hacer el Join al Master Node: 
+
+1. ```student@workeredteam:˜$ sudo -i```
+2. ```root@workeredteam:˜# apt-get update && apt-get upgrade -y```
+3. ```root@workeredteam:˜# apt-get install -y docker.io```
+4. ```root@workeredteam:˜# apt-get install -y vim```
+5. ```root@workeredteam:˜# vim /etc/apt/sources.list.d/kubernetes.list```
+> *deb http://apt.kubernetes.io/ kubernetes-xenial main*
+6. ```root@workeredteam:˜# curl -s https://packages.cloud.google.com/apt/doc/apt-key.gpg | apt-key add -```
+7. ```root@workeredteam:˜# apt-get update```
+8. ```root@workeredteam:˜# apt-get install -y kubeadm=1.18.1-00 kubelet=1.18.1-00 kubectl=1.18.1-00```
+9. ```root@workeredteam:˜# apt-mark hold kubeadm kubelet kubectl```
+10. ```student@masteredteam:˜$ ip addr show```
+11. ```student@masteredteam:˜$ sudo kubeadm token list```
+12. ```root@workeredteam:˜# vim /etc/hosts```
+13. ```root@workeredteam:˜# vim /etc/hosts```
+> *10.128.0.3 k8smasteredteam #<-- Add this line* #Recuerden que esta IP es la del Master Node
+> *127.0.0.1 localhost*
+14. 
 
 
 
