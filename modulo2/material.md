@@ -88,4 +88,13 @@ Muchos de los comando usados en esta sección fueron seleccionados desde **kubec
 ## Minikube
 > [Minikube](https://minikube.sigs.k8s.io/docs/start/)
 
+## Play Kubernetes 
+> [Play Kubernetes](https://labs.play-with-k8s.com/)
+
+## MicroK8s
+> [MicroK8s](https://microk8s.io/)
+
+## KataKoda
+> [KataKoda](https://www.katacoda.com/) 
+
 
