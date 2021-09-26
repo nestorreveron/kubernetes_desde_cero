@@ -52,7 +52,7 @@
 19. ```student@masteredteam:˜$ less .kube/config```
 20. ```student@masteredteam:˜$ sudo cp /root/calico.yaml .```
 ---
-![kubernetes logo](kubectl.png") 
+![kubernetes logo](Kubectl.png") 
 ---
 22. ```student@masteredteam:˜$ kubectl apply -f calico.yaml```
 23. ```student@masteredteam:˜$ sudo apt-get install bash-completion -y```
