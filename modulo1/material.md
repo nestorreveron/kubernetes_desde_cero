@@ -22,13 +22,13 @@
 
 10. **Linux namespaces**: https://en.wikipedia.org/wiki/Linux_namespaces
 
-11. **Cgroups - Control Groups**: https://en.wikipedia.org/wiki/Cgroups 
+11. **Linux Cgroups - Control Groups**: https://en.wikipedia.org/wiki/Cgroups 
 
 12. **Solaris Containers**: https://en.wikipedia.org/wiki/Solaris_Containers
 
 13. **LXC**: https://en.wikipedia.org/wiki/LXC 
 
-14. **lmctfy**: https://en.wikipedia.org/wiki/Lmctfy / https://github.com/google/lmctfy 
+14. **Google lmctfy**: https://en.wikipedia.org/wiki/Lmctfy / https://github.com/google/lmctfy 
 
 15. **Docker**: https://en.wikipedia.org/wiki/Docker_(software)
 
