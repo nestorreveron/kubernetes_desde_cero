@@ -9,16 +9,17 @@
 
 ## Deployment Configuration Spec
 
-1. ****
+1. **Deployment Configuration Spec** https://kubernetes.io/docs/concepts/overview/working-with-objects/kubernetes-objects/ 
 
 ## Deployment Configuration Pod Template 
 
-1. ****
+1. **Deployment Configuration Pod Template** https://www.bmc.com/blogs/kubernetes-deployment/ 
+2. **How Deployments Work** https://docs.openshift.com/container-platform/3.5/dev_guide/deployments/how_deployments_work.html
 
 ## Deployment Configuration Status
 
-1. ****
+1. **Deployment Configuration Status** https://docs.openshift.com/container-platform/4.1/applications/deployments/what-deployments-are.html 
 
 ## Deployments Rolling Updates 
 
-1. **** 
+1. **Deployments Rolling Updates **  https://kubernetes.io/docs/tutorials/kubernetes-basics/update/update-intro/
