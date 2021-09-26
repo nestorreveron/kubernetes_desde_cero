@@ -6,10 +6,9 @@
 
 > Larga vida y prosperidad
 
+## Puedes encontrar el curso en la siguiente url: 
 ---
 ![kubernetes desde cero](kubernetes_desde_cero.png) 
 ---
 
----
-![kubernetes logo](https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/1200px-Kubernetes_logo_without_workmark.svg.png "Kubernetes logo") 
----
+Puedes encontrar el curso en la siguiente url. https://ed.team/cursos/kubernetes
