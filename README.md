@@ -7,7 +7,7 @@
 > Larga vida y prosperidad
 
 ---
-![kubernetes desde cero](Kubernetes_desde_cero.png) 
+![kubernetes desde cero](kubernetes_desde_cero.png) 
 ---
 
 ---
