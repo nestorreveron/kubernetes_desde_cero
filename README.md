@@ -6,9 +6,7 @@
 
 > Larga vida y prosperidad
 
-## Puedes encontrar el curso en la siguiente url: 
+## Puedes encontrar el curso en la siguiente url: https://ed.team/cursos/kubernetes
 ---
 ![kubernetes desde cero](kubernetes_desde_cero.png) 
 ---
-
-Puedes encontrar el curso en la siguiente url. https://ed.team/cursos/kubernetes
