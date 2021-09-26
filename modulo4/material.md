@@ -24,6 +24,9 @@
 
 1. **Deployments Rolling Updates**  https://kubernetes.io/docs/tutorials/kubernetes-basics/update/update-intro/
 
-**Kubernetes bootcamp:
+## **Kubernetes bootcamp:
 Deploying and scaling
-microservices** https://conferences.oreilly.com/velocity/vl-ny/cdn.oreillystatic.com/en/assets/1/event/275/Kubernetes%20bootcamp_%20Deploying%20and%20scaling%20microservices%20Presentation.pdf 
+microservices** 
+[Kubernetes bootcamp:
+Deploying and scaling
+microservices](https://conferences.oreilly.com/velocity/vl-ny/cdn.oreillystatic.com/en/assets/1/event/275/Kubernetes%20bootcamp_%20Deploying%20and%20scaling%20microservices%20Presentation.pdf)  
