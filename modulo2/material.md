@@ -91,7 +91,7 @@ Muchos de los comando usados en esta sección fueron seleccionados desde **kubec
 ## Play Kubernetes 
 > [Play Kubernetes](https://labs.play-with-k8s.com/)
 
-> [hands-on workshop](https://training.play-with-kubernetes.com/kubernetes-workshop/)
+> [Hands-on workshop](https://training.play-with-kubernetes.com/kubernetes-workshop/)
 
 ## MicroK8s
 > [MicroK8s](https://microk8s.io/)
