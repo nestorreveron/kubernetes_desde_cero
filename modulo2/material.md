@@ -51,12 +51,15 @@
 18. ```student@masteredteam:˜$ sudo chown $(id -u):$(id -g) $HOME/.kube/config```
 19. ```student@masteredteam:˜$ less .kube/config```
 20. ```student@masteredteam:˜$ sudo cp /root/calico.yaml .```
-21. ```student@masteredteam:˜$ kubectl apply -f calico.yaml```
-22. ```student@masteredteam:˜$ sudo apt-get install bash-completion -y```
+---
+![kubernetes logo](kubectl.png") 
+---
+22. ```student@masteredteam:˜$ kubectl apply -f calico.yaml```
+23. ```student@masteredteam:˜$ sudo apt-get install bash-completion -y```
 > exit and log back in
-23. ```student@masteredteam:˜$ source <(kubectl completion bash)```
-24. ```student@masteredteam:˜$ echo "source <(kubectl completion bash)" >> $HOME/.bashrc```
-25. ```student@masteredteam:˜$ sudo kubeadm config print init-defaults```
+24. ```student@masteredteam:˜$ source <(kubectl completion bash)```
+25. ```student@masteredteam:˜$ echo "source <(kubectl completion bash)" >> $HOME/.bashrc```
+26. ```student@masteredteam:˜$ sudo kubeadm config print init-defaults```
 
 ## Configuración del Worker Node para hacer el Join al Master Node: 
 
