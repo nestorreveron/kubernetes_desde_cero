@@ -22,7 +22,7 @@
 
 ## Deployments Rolling Updates 
 
-1. **Deployments Rolling Updates **  https://kubernetes.io/docs/tutorials/kubernetes-basics/update/update-intro/
+1. **Deployments Rolling Updates**  https://kubernetes.io/docs/tutorials/kubernetes-basics/update/update-intro/
 
 **Kubernetes bootcamp:
 Deploying and scaling
